@@ -42,7 +42,7 @@ Version Control	Git, GitHub
 
 🪶 Project Motivation Women’s safety and mental well-being are not optional asthey are fundamental. SheSafe was built to bridge AI and empathy, offering women a digital space that listens, informs, and empowers. 💬 “AI can’t replace a human, but it can remind one that they’re never truly alone.”
 
-💻 Developer 👩‍💻 Ved Sharma 🎯 Generative AI Engineer | Building Human-Centered AI Solutions 📧 vedsharma4503@gmail.com
+💻 Developer 👩‍💻 Seemran Dongre 🎯 Generative AI Engineer | Building Human-Centered AI Solutions 📧 seemran1310@gmail.com
 
 🧾 License This project is licensed under the MIT License. Use, modify, and share responsibly — always promoting safety, empathy, and ethics.
 

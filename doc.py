@@ -1,28 +1,3 @@
-'''from langchain_community.document_loaders import TextLoader
-from langchain_openai import ChatOpenAI
-from langchain_core.prompts import PromptTemplate
-from langchain_core.output_parsers import StrOutputParser
-from dotenv import load_dotenv
-
-load_dotenv()
-
-a=TextLoader(file_path='C:\gen ai\sim.text',encoding='utf-8')
-text=a.load()
-print(text[0].page_content)
-
-Brain=ChatOpenAI()
-
-prompt=PromptTemplate(
-    template='summarise the {text} given in 10 bullets point and create 10 question and answer that',
-    input_variables=['text']
-)
-
-parser=StrOutputParser()
-chain=prompt|Brain|parser
-print(chain.invoke({'text':text[0].page_content}))
-'''
-#import login_shesafe
-#import about
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
@@ -181,3 +156,4 @@ elif page == "🚨 Emergency Resources":
     - [Sakhi Helpline](https://www.ncw.nic.in) - 011-26944880  
     """)
     st.success("Stay safe. You are not alone 💙")
+

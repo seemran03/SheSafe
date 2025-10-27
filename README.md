@@ -1,4 +1,7 @@
 💙 SheSafe: AI-Powered Emotional & Legal Support for Women
+
+
+
 🌸 “You are not alone — SheSafe is here to listen, support, and guide.” SheSafe is an intelligent Streamlit-based web application that offers real-time emotional support, legal awareness, and emergency resources for women in distress. It combines Generative AI (OpenAI’s GPT models) with ethical design and safety-first principles, providing an empathetic and secure digital companion.
 
 🚀Features 1)💌 Emotional Support Chat
